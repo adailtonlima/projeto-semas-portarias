@@ -1,0 +1,30 @@
+{
+  "projetoSemasPortariasApp": {
+    "ajuda": {
+      "home": {
+        "title": "Ajudas",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Vytvořit Ajuda",
+        "createOrEditLabel": "Vytvořit nebo upravit Ajuda",
+        "notFound": "No Ajudas found"
+      },
+      "created": "Byl vytvořen potomek entity Ajuda s identifikátorem {{ param }}",
+      "updated": "Potomek entity Ajuda s identifikátorem {{ param }} byl upravený.",
+      "deleted": "Potomek entity Ajuda s identifikátorem {{ param }} bol smazaný.",
+      "delete": {
+        "question": "Jste si jisti, že chcete smazat Ajuda {{ id }}?"
+      },
+      "detail": {
+        "title": "Ajuda"
+      },
+      "id": "Id",
+      "titulo": "Titulo",
+      "conteudo": "Conteudo",
+      "ativo": "Ativo",
+      "createdAt": "Created At",
+      "updatedAt": "Updated At",
+      "deletedAt": "Deleted At",
+      "topicos": "Topicos"
+    }
+  }
+}

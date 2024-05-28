@@ -1,0 +1,37 @@
+{
+  "projetoSemasPortariasApp": {
+    "portaria": {
+      "home": {
+        "title": "Portarias",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Maak een nieuwe Portaria",
+        "createOrEditLabel": "Maak of wijzig een Portaria",
+        "notFound": "No Portarias found"
+      },
+      "created": "A new Portaria is created with identifier {{ param }}",
+      "updated": "A Portaria is updated with identifier {{ param }}",
+      "deleted": "A Portaria is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Portaria {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Portaria"
+      },
+      "id": "ID",
+      "numero": "Numero",
+      "data": "Data",
+      "dataInicio": "Data Inicio",
+      "dataFim": "Data Fim",
+      "ano": "Ano",
+      "justificativaExclusao": "Justificativa Exclusao",
+      "createdAt": "Created At",
+      "updatedAt": "Updated At",
+      "deletedAt": "Deleted At",
+      "assunto": "Assunto",
+      "setor": "Setor",
+      "usuario": "Usuario",
+      "updatedBy": "Updated By",
+      "deletedBy": "Deleted By"
+    }
+  }
+}

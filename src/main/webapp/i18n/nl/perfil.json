@@ -1,0 +1,25 @@
+{
+  "projetoSemasPortariasApp": {
+    "perfil": {
+      "home": {
+        "title": "Perfils",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Maak een nieuwe Perfil",
+        "createOrEditLabel": "Maak of wijzig een Perfil",
+        "notFound": "No Perfils found"
+      },
+      "created": "A new Perfil is created with identifier {{ param }}",
+      "updated": "A Perfil is updated with identifier {{ param }}",
+      "deleted": "A Perfil is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Perfil {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Perfil"
+      },
+      "id": "ID",
+      "nome": "Nome",
+      "descricao": "Descricao"
+    }
+  }
+}
