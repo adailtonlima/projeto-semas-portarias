@@ -1,0 +1,28 @@
+{
+  "projetoSemasPortariasApp": {
+    "setor": {
+      "home": {
+        "title": "Setors",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Vytvořit Setor",
+        "createOrEditLabel": "Vytvořit nebo upravit Setor",
+        "notFound": "No Setors found"
+      },
+      "created": "Byl vytvořen potomek entity Setor s identifikátorem {{ param }}",
+      "updated": "Potomek entity Setor s identifikátorem {{ param }} byl upravený.",
+      "deleted": "Potomek entity Setor s identifikátorem {{ param }} bol smazaný.",
+      "delete": {
+        "question": "Jste si jisti, že chcete smazat Setor {{ id }}?"
+      },
+      "detail": {
+        "title": "Setor"
+      },
+      "id": "ID",
+      "nome": "Nome",
+      "sigla": "Sigla",
+      "createdAt": "Created At",
+      "updatedAt": "Updated At",
+      "deletedAt": "Deleted At"
+    }
+  }
+}

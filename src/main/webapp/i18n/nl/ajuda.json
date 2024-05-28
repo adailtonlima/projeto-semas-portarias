@@ -1,0 +1,30 @@
+{
+  "projetoSemasPortariasApp": {
+    "ajuda": {
+      "home": {
+        "title": "Ajudas",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Maak een nieuwe Ajuda",
+        "createOrEditLabel": "Maak of wijzig een Ajuda",
+        "notFound": "No Ajudas found"
+      },
+      "created": "A new Ajuda is created with identifier {{ param }}",
+      "updated": "A Ajuda is updated with identifier {{ param }}",
+      "deleted": "A Ajuda is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Ajuda {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Ajuda"
+      },
+      "id": "Id",
+      "titulo": "Titulo",
+      "conteudo": "Conteudo",
+      "ativo": "Ativo",
+      "createdAt": "Created At",
+      "updatedAt": "Updated At",
+      "deletedAt": "Deleted At",
+      "topicos": "Topicos"
+    }
+  }
+}

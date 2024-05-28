@@ -28,7 +28,7 @@ entity Topico(topicos){
 
 relationship ManyToMany {
 	Topico{ajudas(titulo)} to Ajuda{topicos(titulo)}
-    Topico{assuntos(titulo)} to Assunto{topicos(titulo)}
+    Topico{assuntos(nome)} to Assunto{topicos(titulo)}
 }
 
 

@@ -1,0 +1,28 @@
+{
+  "projetoSemasPortariasApp": {
+    "setor": {
+      "home": {
+        "title": "Setors",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Maak een nieuwe Setor",
+        "createOrEditLabel": "Maak of wijzig een Setor",
+        "notFound": "No Setors found"
+      },
+      "created": "A new Setor is created with identifier {{ param }}",
+      "updated": "A Setor is updated with identifier {{ param }}",
+      "deleted": "A Setor is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Setor {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Setor"
+      },
+      "id": "ID",
+      "nome": "Nome",
+      "sigla": "Sigla",
+      "createdAt": "Created At",
+      "updatedAt": "Updated At",
+      "deletedAt": "Deleted At"
+    }
+  }
+}

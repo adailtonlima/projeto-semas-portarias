@@ -1,0 +1,29 @@
+{
+  "projetoSemasPortariasApp": {
+    "assunto": {
+      "home": {
+        "title": "Assuntos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Maak een nieuwe Assunto",
+        "createOrEditLabel": "Maak of wijzig een Assunto",
+        "notFound": "No Assuntos found"
+      },
+      "created": "A new Assunto is created with identifier {{ param }}",
+      "updated": "A Assunto is updated with identifier {{ param }}",
+      "deleted": "A Assunto is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Assunto {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Assunto"
+      },
+      "id": "ID",
+      "nome": "Nome",
+      "descricao": "Descricao",
+      "createdAt": "Created At",
+      "updatedAt": "Updated At",
+      "deletedAt": "Deleted At",
+      "topicos": "Topicos"
+    }
+  }
+}

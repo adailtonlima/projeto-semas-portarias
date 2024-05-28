@@ -1,0 +1,37 @@
+{
+  "projetoSemasPortariasApp": {
+    "portaria": {
+      "home": {
+        "title": "Portarias",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Vytvořit Portaria",
+        "createOrEditLabel": "Vytvořit nebo upravit Portaria",
+        "notFound": "No Portarias found"
+      },
+      "created": "Byl vytvořen potomek entity Portaria s identifikátorem {{ param }}",
+      "updated": "Potomek entity Portaria s identifikátorem {{ param }} byl upravený.",
+      "deleted": "Potomek entity Portaria s identifikátorem {{ param }} bol smazaný.",
+      "delete": {
+        "question": "Jste si jisti, že chcete smazat Portaria {{ id }}?"
+      },
+      "detail": {
+        "title": "Portaria"
+      },
+      "id": "ID",
+      "numero": "Numero",
+      "data": "Data",
+      "dataInicio": "Data Inicio",
+      "dataFim": "Data Fim",
+      "ano": "Ano",
+      "justificativaExclusao": "Justificativa Exclusao",
+      "createdAt": "Created At",
+      "updatedAt": "Updated At",
+      "deletedAt": "Deleted At",
+      "assunto": "Assunto",
+      "setor": "Setor",
+      "usuario": "Usuario",
+      "updatedBy": "Updated By",
+      "deletedBy": "Deleted By"
+    }
+  }
+}

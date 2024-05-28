@@ -1,0 +1,31 @@
+{
+  "projetoSemasPortariasApp": {
+    "topico": {
+      "home": {
+        "title": "Topicos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Vytvořit Topico",
+        "createOrEditLabel": "Vytvořit nebo upravit Topico",
+        "notFound": "No Topicos found"
+      },
+      "created": "Byl vytvořen potomek entity Topico s identifikátorem {{ param }}",
+      "updated": "Potomek entity Topico s identifikátorem {{ param }} byl upravený.",
+      "deleted": "Potomek entity Topico s identifikátorem {{ param }} bol smazaný.",
+      "delete": {
+        "question": "Jste si jisti, že chcete smazat Topico {{ id }}?"
+      },
+      "detail": {
+        "title": "Topico"
+      },
+      "id": "Id",
+      "titulo": "Titulo",
+      "conteudo": "Conteudo",
+      "ativo": "Ativo",
+      "createdAt": "Created At",
+      "updatedAt": "Updated At",
+      "deletedAt": "Deleted At",
+      "ajudas": "Ajudas",
+      "assuntos": "Assuntos"
+    }
+  }
+}
